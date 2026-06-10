@@ -184,7 +184,7 @@ export default function Header({ dark, setDark }: Props) {
                   </h2>
 
                   <p className="mt-1 text-[9px] font-bold uppercase tracking-[0.22em] text-[#061B46]/60 dark:text-white/45">
-                    AI Powered
+                    AI Powered ~ Smart Digital Solutions
                   </p>
                 </div>
               </NavLink>
